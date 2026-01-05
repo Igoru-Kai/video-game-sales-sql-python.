@@ -16,7 +16,7 @@ Este projeto apresenta um estudo aprofundado sobre a dinâmica competitiva entre
 ### 1. Evolução Macroeconômica
 Contextualização do volume total de software vendido globalmente para estabelecer a linha de base do mercado.
 
-![Evolução Global de Vendas](Gráfico-linha.png)
+![Evolução Global de Vendas](line-plot.png)
 
 ### 2. Guerra dos Consoles (Maturidade vs. Expansão)
 Uma comparação entre o **Volume Bruto** e a **Velocidade de Crescimento**:
