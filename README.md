@@ -16,21 +16,21 @@ Este projeto apresenta um estudo aprofundado sobre a dinâmica competitiva entre
 ### 1. Evolução Macroeconômica
 Contextualização do volume total de software vendido globalmente para estabelecer a linha de base do mercado.
 
-![Evolução Global de Vendas](COLOQUE_O_CAMINHO_DA_IMAGEM_AQUI.png)
+![Evolução Global de Vendas](Gráfico-linha.png)
 
 ### 2. Guerra dos Consoles (Maturidade vs. Expansão)
 Uma comparação entre o **Volume Bruto** e a **Velocidade de Crescimento**:
 * **Sony & Nintendo:** Líderes em faturamento absoluto, enfrentando barreiras de crescimento devido à maturidade de suas bases.
 * **Microsoft:** Demonstrando a maior aceleração proporcional do período, atuando como o elemento de "quebra de monopólio".
 
-![Crescimento Normalizado](COLOQUE_O_CAMINHO_DA_IMAGEM_AQUI.png)
+![Crescimento Normalizado](crescimento-relativo.jpg)
 
 ### 3. Distribuição "Do Fracasso ao Super Hit"
 Segmentação científica da indústria para provar a tese da **Cauda Longa**:
 * **Super Hits (Top 1%):** Títulos com vendas $\ge 10M$ que sustentam o faturamento da indústria.
 * **Cauda Longa:** A vasta maioria dos lançamentos que possuem menor escala comercial individual.
 
-![Distribuição da Indústria](COLOQUE_O_CAMINHO_DA_IMAGEM_AQUI.png)
+![Distribuição da Indústria](distribuicao-da-industria.jpg)
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3.x
@@ -42,6 +42,5 @@ Segmentação científica da indústria para provar a tese da **Cauda Longa**:
 
 ## 👨‍💻 Autor
 
-**[SEU NOME AQUI]**
-* [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-* [GitHub](https://github.com/seu-usuario)
+**Igor Vinicius**
+
